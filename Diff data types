@@ -1,0 +1,4 @@
+c programming has three main categories of data types.they are primary data type, derived data type and user-defined data type
+1) primary data type:int,char, float, double and void.
+2) Derived data type:arrays, pointers 
+3)user-defined data type:struct, union,enum
